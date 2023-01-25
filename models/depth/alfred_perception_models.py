@@ -1,11 +1,10 @@
 from typing import Dict, Tuple
 
-import math
+import pickle
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from torchvision import models
 from . import segmentation_definitions as segdef
 
 
