@@ -18,3 +18,4 @@ imageio==2.6.0
 scikit-image
 scikit-learn
 ifcfg
+gym
